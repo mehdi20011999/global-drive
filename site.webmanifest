@@ -1,0 +1,9 @@
+{
+  "name": "Global Drive — Location de voitures Casablanca",
+  "short_name": "Global Drive",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f7f5",
+  "theme_color": "#0f2b2e",
+  "icons": [{ "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
